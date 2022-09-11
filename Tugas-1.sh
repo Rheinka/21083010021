@@ -1,0 +1,8 @@
+echo ".............................."
+echo "Tugas 1 SISOP Kelas-B"
+echo ".............................."
+echo "Nama : Rheinka Elyana S."
+echo "NPM : 21083010021"
+echo ".............................."
+echo "Ini adalah script pertamaku di bash!"
+echo "............................." 
